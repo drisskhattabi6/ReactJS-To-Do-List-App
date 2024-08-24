@@ -8,6 +8,9 @@ A simple To-Do List application built using ReactJS.
 - Mark tasks as completed
 - Delete tasks from the list
 
+### Preview of the app
+![](img.png)
+
 ## Getting Started
 
 These instructions will help you set up the project on your local machine.
